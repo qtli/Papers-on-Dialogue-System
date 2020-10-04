@@ -2,7 +2,7 @@
 
 ## Survey
 
-1. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang. **A review of relation extraction**. [[paper]](http://arxiv.org/abs/1711.01731)
+1. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang. **A Survey on Dialogue Systems: Recent Advances and New Frontiers**. [[paper]](http://arxiv.org/abs/1711.01731)
 
 
 ## Datasets
