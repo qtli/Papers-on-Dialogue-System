@@ -1,4 +1,4 @@
-# Papers on Dialogue Systems (continuous updating)
+# Papers on Dialogue Systems (ongoing)
 
 ## Survey
 
