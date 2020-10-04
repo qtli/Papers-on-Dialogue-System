@@ -10,8 +10,6 @@ NRE: Neural Relation Extraction.
 
 ## Datasets
 
-You can download most of the following datasets in `json` format from [OpenNRE](https://github.com/thunlp/OpenNRE).
-
 ### Emotional Dialogue
 
 1. **DailyDialog**. [[paper]](https://www.aclweb.org/anthology/I17-1099.pdf)
