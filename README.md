@@ -2,8 +2,7 @@
 
 ## Survey
 
-1. Nguyen Bach, Sameer Badaskar. **A review of relation extraction**. [[paper]](https://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction.pdf)
-1. Shantanu Kumar. 2017. **A survey of deep learning methods for relation extraction**. [[paper]](https://arxiv.org/pdf/1705.03645.pdf)
+1. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang. **A review of relation extraction**. [[paper]](http://arxiv.org/abs/1711.01731)
 
 
 ## Datasets
@@ -20,6 +19,10 @@
 1. **EmpatheticDialogues**. [[paper]](https://www.aclweb.org/anthology/P19-1050.pdf)
 
 
+### Others
+1. **NRC_VAD**. [[paper]](https://www.aclweb.org/anthology/P18-1017)
+
+
 
 ## Papers
 
@@ -31,10 +34,19 @@
 1. Peixiang Zhong, Di Wang, Chunyan Miao. **An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss**. In Proceedings of AAAI 2019. [[paper]](http://arxiv.org/abs/1811.07078)
 1. Chenyang Huang, Osmar R. Zaïane, Amine Trabelsi, Nouha Dziri. **Automatic Dialogue Generation with Expressed Emotions**. In Proceedings of NAACL 2018. [[paper]](https://www.aclweb.org/anthology/N18-2008)
 1. Lei Shen, Yang Feng. **CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation**. In Proceedings of ACL 2020. [[paper]](http://arxiv.org/abs/2005.00329)
-1. Zhenqiao Song, Xiaoqing Zheng, Lu Liu1, Mu Xu, Xuanjing Huang. **Generating Responses with a Specific Emotion in Dialog**. In Proceedings of ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1359)
-1. Zhenqiao Song, Xiaoqing Zheng, Lu Liu1, Mu Xu, Xuanjing Huang. **Generating Responses with a Specific Emotion in Dialog**. In Proceedings of ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1359)
+1. Zhenqiao Song, Xiaoqing Zheng, Lu Liu, Mu Xu, Xuanjing Huang. **Generating Responses with a Specific Emotion in Dialog**. In Proceedings of ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1359)
+1. Xianda Zhou, William Yang Wang. **MojiTalk: Generating Emotional Responses at Scale**. In Proceedings of ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1104)
 
 
+
+### Empathetic Dialogue Generation
+1. Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. **Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset
+**. In Proceedings of ACL 2019. [[paper]](http://arxiv.org/abs/1908.07687)
+1. Zhaojiang Lin, Andrea Madotto, Jamin Shin, Peng Xu, Pascale Fung. **MoEL: Mixture of Empathetic Listeners**. In Proceedings of EMNLP 2019. [[paper]](http://arxiv.org/abs/1908.07687)
+1. Zhaojiang Lin, Peng Xu, Genta Indra Winata, Farhad Bin Siddique, Zihan Liu, Jamin Shin, Pascale Fung. **CAiRE: An Empathetic Neural Chatbot**. In Proceedings of AAAI demo 2020. [[paper]](http://arxiv.org/abs/1907.12108)
+1. Wei Wei, Jiayi Liu, Xianling Mao, Guibing Guo, Feida Zhu, Pan Zhou, Yuchong Hu. **Emotion-aware Chat Machine: Automatic Emotional Response Generation for Human-like Emotional Interaction**. In Proceedings of CIKM 2019. [[paper]](http://doi.acm.org/10.1145/3357384.3357937)
+1. Peixiang Zhong, Yan Zhu, Yong Liu, Chen Zhang, Hao Wang, Zaiqing Nie, Chunyan Miao. **Endowing Empathetic Conversational Models with Personas**. arxiv. [[paper]](http://arxiv.org/abs/2004.12316)
+1. Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung. **Generating Empathetic Responses by Looking Ahead the User’s Sentiment**. arxiv. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054379)
 
 
 ### Emotion Detection in Dialogue
@@ -43,14 +55,5 @@
 1. Devamanyu Hazarika, Soujanya Poria, Rada Mihalcea, Erik Cambria, Roger Zimmermann. **ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection**. In Proceedings of EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1280)
 1. Peixiang Zhong, Di Wang, Chunyan Miao. **Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations**. In Proceedings of EMNLP 2019. [[paper]](https://www.aclweb.org/anthology/D19-1016)
 1. Connor T. Heaton, David M. Schwartz. **Language Models as Emotional Classifiers for Textual Conversations**. arxiv. [[paper]](http://arxiv.org/abs/2008.12360)
-
-
-
-
-
-### Empathetic Dialogue Generation
-1. Wei Wei, Jiayi Liu, Xianling Mao, Guibing Guo, Feida Zhu, Pan Zhou, Yuchong Hu. **Emotion-aware Chat Machine: Automatic Emotional Response Generation for Human-like Emotional Interaction**. In Proceedings of CIKM 2019. [[paper]](http://doi.acm.org/10.1145/3357384.3357937)
-1. Peixiang Zhong, Yan Zhu, Yong Liu, Chen Zhang, Hao Wang, Zaiqing Nie, Chunyan Miao. **Endowing Empathetic Conversational Models with Personas**. arxiv. [[paper]](http://arxiv.org/abs/2004.12316)
-1. Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung. **Generating Empathetic Responses by Looking Ahead the User’s Sentiment**. arxiv. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054379)
 
 
