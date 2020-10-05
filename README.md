@@ -51,7 +51,7 @@
 
 ### Emotion Detection in Dialogue
 1. Navonil Majumder, Soujanya Poria, Devamanyu Hazarika, Rada Mihalcea, Alexander Gelbukh, Erik Cambria. **DialogueRNN: An Attentive RNN for Emotion Detection in Conversations**. In Proceedings of AAAI 2019. [[paper]](http://arxiv.org/abs/1811.00405)
-1. Deepanway Ghosal, Navonil Majumder, Soujanya Poria, Niyati Chhaya and Alexander Gelbukh. **DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation**. In Proceedings of EMNLP-IJCNLP 2019. [[paper]](https://www.aclweb.org/anthology/D19-1015)
+1. Deepanway Ghosal, Navonil Majumder, Soujanya Poria, Niyati Chhaya and Alexander Gelbukh. **DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation**. In Proceedings of EMNLP 2019. [[paper]](https://www.aclweb.org/anthology/D19-1015)
 1. Devamanyu Hazarika, Soujanya Poria, Rada Mihalcea, Erik Cambria, Roger Zimmermann. **ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection**. In Proceedings of EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1280)
 1. Peixiang Zhong, Di Wang, Chunyan Miao. **Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations**. In Proceedings of EMNLP 2019. [[paper]](https://www.aclweb.org/anthology/D19-1016)
 1. Connor T. Heaton, David M. Schwartz. **Language Models as Emotional Classifiers for Textual Conversations**. arxiv. [[paper]](http://arxiv.org/abs/2008.12360)
