@@ -1,5 +1,9 @@
 # Papers on Dialogue Systems (ongoing)
 
+## Surveys
+
+1. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang. **A Survey on Dialogue Systems: Recent Advances and New Frontiers**. [[paper]](http://arxiv.org/abs/1711.01731)
+
 ## Datasets
 
 ### Emotional Dialogue
@@ -15,8 +19,8 @@
 
 
 ### Emotion-related Resources
-1. **NRC_VAD (Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words)**. [[paper]](https://www.aclweb.org/anthology/P18-1017)
 1. **NRC (Crowdsourcing a word–emotion association lexicon)**. [[paper]](https://arxiv.org/abs/1308.6297)
+1. **NRC_VAD (Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words)**. [[paper]](https://www.aclweb.org/anthology/P18-1017)
 
 
 
