@@ -44,7 +44,7 @@
 1. Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. **Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset**
 **. In Proceedings of ACL 2019. [[paper]](http://arxiv.org/abs/1908.07687)
 1. Zhaojiang Lin, Andrea Madotto, Jamin Shin, Peng Xu, Pascale Fung. **MoEL: Mixture of Empathetic Listeners**. In Proceedings of EMNLP 2019. [[paper]](http://arxiv.org/abs/1908.07687)
-1. Zhaojiang Lin, Peng Xu, Genta Indra Winata, Farhad Bin Siddique, Zihan Liu, Jamin Shin, Pascale Fung. **CAiRE: An Empathetic Neural Chatbot**. In Proceedings of AAAI demo 2020. [[paper]](http://arxiv.org/abs/1907.12108)
+1. Zhaojiang Lin, Peng Xu, Genta Indra Winata, Farhad Bin Siddique, Zihan Liu, Jamin Shin, Pascale Fung. **CAiRE: An Empathetic Neural Chatbot**. In Proceedings of AAAI 2020. [[demo paper]](http://arxiv.org/abs/1907.12108)
 1. Wei Wei, Jiayi Liu, Xianling Mao, Guibing Guo, Feida Zhu, Pan Zhou, Yuchong Hu. **Emotion-aware Chat Machine: Automatic Emotional Response Generation for Human-like Emotional Interaction**. In Proceedings of CIKM 2019. [[paper]](http://doi.acm.org/10.1145/3357384.3357937)
 1. Peixiang Zhong, Yan Zhu, Yong Liu, Chen Zhang, Hao Wang, Zaiqing Nie, Chunyan Miao. **Endowing Empathetic Conversational Models with Personas**. arxiv. [[paper]](http://arxiv.org/abs/2004.12316)
 1. Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung. **Generating Empathetic Responses by Looking Ahead the User’s Sentiment**. In Proceedings of ICASSP 2020. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054379)
