@@ -41,7 +41,7 @@
 
 
 ### Empathetic Dialogue Generation
-1. Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. **Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset
+1. Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. **Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset**
 **. In Proceedings of ACL 2019. [[paper]](http://arxiv.org/abs/1908.07687)
 1. Zhaojiang Lin, Andrea Madotto, Jamin Shin, Peng Xu, Pascale Fung. **MoEL: Mixture of Empathetic Listeners**. In Proceedings of EMNLP 2019. [[paper]](http://arxiv.org/abs/1908.07687)
 1. Zhaojiang Lin, Peng Xu, Genta Indra Winata, Farhad Bin Siddique, Zihan Liu, Jamin Shin, Pascale Fung. **CAiRE: An Empathetic Neural Chatbot**. In Proceedings of AAAI demo 2020. [[paper]](http://arxiv.org/abs/1907.12108)
