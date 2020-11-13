@@ -41,14 +41,14 @@
 
 
 ### Empathetic Dialogue Generation
-1. Qintong Li, Hongshen Chen, Zhaochun Ren, Pengjie Ren, Zhaopeng Tu, Zhumin Chen. **EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation**.  In Proceedings of COLING 2020. [[paper]]()
+1. Qintong Li, Hongshen Chen, Zhaochun Ren, Pengjie Ren, Zhaopeng Tu, Zhumin Chen. **EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation**. In Proceedings of COLING 2020. [[paper]]()
+1. Qintong Li, Piji Li, Zhumin Chen, Zhaochun Ren. **Empathetic Dialogue Generation via Knowledge Enhancing and Emotion Dependency Modeling**. arxiv 2020. [[paper]](https://arxiv.org/pdf/2009.09708.pdf)
 1. Taichi Ishiwatari, Yuki Yasuda, Taro Miyazaki and Jun Goto. **MIME: MIMicking Emotions for Empathetic Response Generation**. In Proceedings of EMNLP 2020. [[paper]](https://arxiv.org/abs/2010.01454)
 1. Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. **Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset**. In Proceedings of ACL 2019. [[paper]](http://arxiv.org/abs/1908.07687)
 1. Zhaojiang Lin, Andrea Madotto, Jamin Shin, Peng Xu, Pascale Fung. **MoEL: Mixture of Empathetic Listeners**. In Proceedings of EMNLP 2019. [[paper]](http://arxiv.org/abs/1908.07687)
 1. Zhaojiang Lin, Peng Xu, Genta Indra Winata, Farhad Bin Siddique, Zihan Liu, Jamin Shin, Pascale Fung. **CAiRE: An Empathetic Neural Chatbot**. In Proceedings of AAAI 2020. [[demo paper]](http://arxiv.org/abs/1907.12108)
 1. Wei Wei, Jiayi Liu, Xianling Mao, Guibing Guo, Feida Zhu, Pan Zhou, Yuchong Hu. **Emotion-aware Chat Machine: Automatic Emotional Response Generation for Human-like Emotional Interaction**. In Proceedings of CIKM 2019. [[paper]](http://doi.acm.org/10.1145/3357384.3357937)
-1. Peixiang Zhong, Yan Zhu, Yong Liu, Chen Zhang, Hao Wang, Zaiqing Nie, Chunyan Miao. **Endowing Empathetic Conversational Models with Personas**. arxiv 2020. [[paper]](http://arxiv.org/abs/2004.12316)
-1. Peixiang Zhong, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao. **Endowing Empathetic Conversational Models with Personas**. EMNLP 2020. [[paper]](https://arxiv.org/pdf/2004.12316.pdf)
+1. Peixiang Zhong, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao. **Endowing Empathetic Conversational Models with Personas**. In Proceedings of EMNLP 2020. [[paper]](https://arxiv.org/pdf/2004.12316.pdf)
 1. Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung. **Generating Empathetic Responses by Looking Ahead the User’s Sentiment**. In Proceedings of ICASSP 2020. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054379)
 
 
