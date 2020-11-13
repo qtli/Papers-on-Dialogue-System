@@ -42,6 +42,7 @@
 
 
 ### Empathetic Dialogue Generation
+1. Taichi Ishiwatari, Yuki Yasuda, Taro Miyazaki and Jun Goto. **MIME: MIMicking Emotions for Empathetic Response Generation**. In Proceedings of EMNLP 2020. [[paper]](https://arxiv.org/abs/2010.01454)
 1. Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. **Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset**. In Proceedings of ACL 2019. [[paper]](http://arxiv.org/abs/1908.07687)
 1. Zhaojiang Lin, Andrea Madotto, Jamin Shin, Peng Xu, Pascale Fung. **MoEL: Mixture of Empathetic Listeners**. In Proceedings of EMNLP 2019. [[paper]](http://arxiv.org/abs/1908.07687)
 1. Zhaojiang Lin, Peng Xu, Genta Indra Winata, Farhad Bin Siddique, Zihan Liu, Jamin Shin, Pascale Fung. **CAiRE: An Empathetic Neural Chatbot**. In Proceedings of AAAI 2020. [[demo paper]](http://arxiv.org/abs/1907.12108)
