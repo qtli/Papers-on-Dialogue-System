@@ -22,14 +22,13 @@
 ### Emotion-related Resources
 1. **NRC (Crowdsourcing a word–emotion association lexicon)**. [[paper]](https://arxiv.org/abs/1308.6297)
 1. **NRC_VAD (Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words)**. [[paper]](https://www.aclweb.org/anthology/P18-1017)
-
+1. **CancerEmo (A Dataset for Fine-Grained Emotion Detection)**.  [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.715.pdf)
 
 
 
 ## Papers
 
 ### Emotional Dialogue Generation
-
 1. Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu. **Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory**. In Proceedings of AAAI 2018. [[paper]](https://arxiv.org/pdf/1704.01074.pdf)
 1. Ao Zhang, Shizhan Chen, Xiaowang Zhang, Rui Li, Xinzhi Zhang. **A Knowledge-Enriched Model for Emotional Conversation Generation**. In Proceedings of WWW 2020. [[short paper]](https://dl.acm.org/doi/10.1145/3366424.3382693)
 1. Pierre Colombo, Wojciech Witon, Ashutosh Modi, James Kennedy, Mubbasir Kapadia. **Affect-Driven Dialog Generation**. In Proceedings of NAACL 2019. [[paper]](https://arxiv.org/pdf/1904.02793.pdf)
@@ -42,6 +41,7 @@
 
 
 ### Empathetic Dialogue Generation
+1. Qintong Li, Hongshen Chen, Zhaochun Ren, Pengjie Ren, Zhaopeng Tu, Zhumin Chen. **EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation**.  In Proceedings of COLING 2020. [[paper]]()
 1. Taichi Ishiwatari, Yuki Yasuda, Taro Miyazaki and Jun Goto. **MIME: MIMicking Emotions for Empathetic Response Generation**. In Proceedings of EMNLP 2020. [[paper]](https://arxiv.org/abs/2010.01454)
 1. Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. **Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset**. In Proceedings of ACL 2019. [[paper]](http://arxiv.org/abs/1908.07687)
 1. Zhaojiang Lin, Andrea Madotto, Jamin Shin, Peng Xu, Pascale Fung. **MoEL: Mixture of Empathetic Listeners**. In Proceedings of EMNLP 2019. [[paper]](http://arxiv.org/abs/1908.07687)
