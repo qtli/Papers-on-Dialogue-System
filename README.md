@@ -59,6 +59,7 @@
 1. Devamanyu Hazarika, Soujanya Poria, Rada Mihalcea, Erik Cambria, Roger Zimmermann. **ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection**. In Proceedings of EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1280)
 1. Peixiang Zhong, Di Wang, Chunyan Miao. **Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations**. In Proceedings of EMNLP 2019. [[paper]](https://www.aclweb.org/anthology/D19-1016)
 1. Connor T. Heaton, David M. Schwartz. **Language Models as Emotional Classifiers for Textual Conversations**. arxiv 2020. [[paper]](http://arxiv.org/abs/2008.12360)
-1. Taichi Ishiwatari, Yuki Yasuda, Taro Miyazaki and Jun Goto. **Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations**. EMNLP 2020. [[paper]]()
+1. Taichi Ishiwatari, Yuki Yasuda, Taro Miyazaki and Jun Goto. **Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations**. In Proceedings of EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.597.pdf)
+1. Faeze Brahman and Snigdha Chaturvedi. **Modeling Protagonist Emotions for Emotion-Aware Storytelling**. In Proceedings of EMNLP 2020. [[paper]](https://arxiv.org/abs/2010.06822) 
 
 
