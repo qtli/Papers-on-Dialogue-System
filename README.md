@@ -17,13 +17,15 @@
 ### Empathetic Dialogue
 
 1. **EmpatheticDialogues**. [[paper]](https://www.aclweb.org/anthology/P19-1050.pdf)
+1. **Towards Emotional Support Dialog Systems**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.269.pdf)
+1. **A Large-Scale Dataset for Empathetic Response Generation**. EMNLP 2021. [[paper]]()
+
 
 
 ### Emotion-related Resources
 1. **NRC (Crowdsourcing a word–emotion association lexicon)**. [[paper]](https://arxiv.org/abs/1308.6297)
 1. **NRC_VAD (Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words)**. [[paper]](https://www.aclweb.org/anthology/P18-1017)
 1. **CancerEmo (A Dataset for Fine-Grained Emotion Detection)**.  [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.715.pdf)
-
 
 
 ## Papers
@@ -41,7 +43,13 @@
 
 
 ### Empathetic Dialogue
-1. Qintong Li, Hongshen Chen, Zhaochun Ren, Pengjie Ren, Zhaopeng Tu, Zhumin Chen. **EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation**. In Proceedings of COLING 2020. [[paper]]()
+1. Jun Gao, Yuhan Liu, Haolin Deng, Wei Wang, Yu Cao, Jiachen Du, Ruifeng Xu. **Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations**. EMNLP 2021 Findings. 
+1. Hyunwoo Kim, Byeongchang Kim, Gunhee Kim. **Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes**. EMNLP 2021 [[paper]](https://arxiv.org/abs/2109.08828)
+1. Lei Shen, Jinchao Zhang, Jiao Ou, Xiaofang Zhao, Jie Zhou. **Constructing Emotion Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation**. EMNLP 2021 Findings. [[paper]](https://arxiv.org/abs/2109.07779)
+1. Siyang Liu, Chujie Zheng, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang. **Towards Emotional Support Dialog Systems**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.269.pdf)
+1. Chujie Zheng†, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang. CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation. ACL 2021 Findings. [[paper]](https://aclanthology.org/2021.findings-acl.72.pdf)
+1. Yubo Xie, Pearl Pu. Empathetic Dialog Generation with Fine-Grained Intents. CoNLL 2021. [[Paper]](https://arxiv.org/abs/2105.06829)
+1. Qintong Li, Hongshen Chen, Zhaochun Ren, Pengjie Ren, Zhaopeng Tu, Zhumin Chen. **EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation**. In Proceedings of COLING 2020. [[paper]](https://aclanthology.org/2020.coling-main.394)
 1. Qintong Li, Piji Li, Zhumin Chen, Zhaochun Ren. **Empathetic Dialogue Generation via Knowledge Enhancing and Emotion Dependency Modeling**. arxiv 2020. [[paper]](https://arxiv.org/pdf/2009.09708.pdf)
 1. Peixiang Zhong, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao. **Endowing Empathetic Conversational Models with Personas**. In Proceedings of EMNLP 2020. [[paper]](https://arxiv.org/pdf/2004.12316.pdf)
 1. Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung. **Generating Empathetic Responses by Looking Ahead the User’s Sentiment**. In Proceedings of ICASSP 2020. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054379)
@@ -55,6 +63,7 @@
 
 
 ### Emotion Detection in Dialogue
+1. Mahshid Hosseini, Cornelia Caragea. **Distilling Knowledge for Empathy Detection**. EMNLP 2021 Findings. [[paper]]()
 1. Taichi Ishiwatari, Yuki Yasuda, Taro Miyazaki and Jun Goto. **Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations**. In Proceedings of EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.597.pdf)
 1. Faeze Brahman and Snigdha Chaturvedi. **Modeling Protagonist Emotions for Emotion-Aware Storytelling**. In Proceedings of EMNLP 2020. [[paper]](https://arxiv.org/abs/2010.06822) 
 1. Xin Lu, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen, Bing Qin, **An Iterative Emotion Interaction Network for Emotion Recognition in Conversations**. In Proceedings of COLING 2020. [[paper]]()
@@ -65,4 +74,7 @@
 1. Suraj Maharjan, Sudipta Kar, Manuel Montes-y-Gomez, Fabio A. Gonzalez, Thamar Solorio. **Letting Emotions Flow: Success Prediction by Modeling the Flow of Emotions in Books**. In Proceedings of NAACL 2018. [[paper]](https://www.aclweb.org/anthology/N18-2042.pdf)
 1. Devamanyu Hazarika, Soujanya Poria, Rada Mihalcea, Erik Cambria, Roger Zimmermann. **ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection**. In Proceedings of EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1280)
 
+
+### Others
+1. Kezhen Chen, Qiuyuan Huang, Daniel McDuff, Xiang Gao, Hamid Palangi, Jianfeng Wang, Kenneth Forbus, Jianfeng Gao. **NICE: Neural Image Commenting with Empathy**. [[paper]](https://www.microsoft.com/en-us/research/publication/nice/)
 
