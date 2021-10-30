@@ -30,20 +30,9 @@
 
 ## Papers
 
-### Emotional Dialogue
-1. Lei Shen, Yang Feng. **CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation**. In Proceedings of ACL 2020. [[paper]](http://arxiv.org/abs/2005.00329)
-1. Ao Zhang, Shizhan Chen, Xiaowang Zhang, Rui Li, Xinzhi Zhang. **A Knowledge-Enriched Model for Emotional Conversation Generation**. In Proceedings of WWW 2020. [[short paper]](https://dl.acm.org/doi/10.1145/3366424.3382693)
-1. Zhenqiao Song, Xiaoqing Zheng, Lu Liu, Mu Xu, Xuanjing Huang. **Generating Responses with a Specific Emotion in Dialog**. In Proceedings of ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1359)
-1. Pierre Colombo, Wojciech Witon, Ashutosh Modi, James Kennedy, Mubbasir Kapadia. **Affect-Driven Dialog Generation**. In Proceedings of NAACL 2019. [[paper]](https://arxiv.org/pdf/1904.02793.pdf)
-1. Peixiang Zhong, Di Wang, Chunyan Miao. **An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss**. In Proceedings of AAAI 2019. [[paper]](http://arxiv.org/abs/1811.07078)
-1. Xianda Zhou, William Yang Wang. **MojiTalk: Generating Emotional Responses at Scale**. In Proceedings of ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1104)
-1. Chenyang Huang, Osmar R. Zaïane, Amine Trabelsi, Nouha Dziri. **Automatic Dialogue Generation with Expressed Emotions**. In Proceedings of NAACL 2018. [[paper]](https://www.aclweb.org/anthology/N18-2008)
-1. Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu. **Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory**. In Proceedings of AAAI 2018. [[paper]](https://arxiv.org/pdf/1704.01074.pdf)
-
-
 
 ### Empathetic Dialogue
-1. Jun Gao, Yuhan Liu, Haolin Deng, Wei Wang, Yu Cao, Jiachen Du, Ruifeng Xu. **Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations**. EMNLP 2021 Findings. 
+1. Jun Gao, Yuhan Liu, Haolin Deng, Wei Wang, Yu Cao, Jiachen Du, Ruifeng Xu. **Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations**. EMNLP 2021 Findings. [[paper]]()
 1. Hyunwoo Kim, Byeongchang Kim, Gunhee Kim. **Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes**. EMNLP 2021 [[paper]](https://arxiv.org/abs/2109.08828)
 1. Lei Shen, Jinchao Zhang, Jiao Ou, Xiaofang Zhao, Jie Zhou. **Constructing Emotion Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation**. EMNLP 2021 Findings. [[paper]](https://arxiv.org/abs/2109.07779)
 1. Siyang Liu, Chujie Zheng, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang. **Towards Emotional Support Dialog Systems**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.269.pdf)
@@ -60,6 +49,16 @@
 1. Zhaojiang Lin, Andrea Madotto, Jamin Shin, Peng Xu, Pascale Fung. **MoEL: Mixture of Empathetic Listeners**. In Proceedings of EMNLP 2019. [[paper]](http://arxiv.org/abs/1908.07687)
 1. Wei Wei, Jiayi Liu, Xianling Mao, Guibing Guo, Feida Zhu, Pan Zhou, Yuchong Hu. **Emotion-aware Chat Machine: Automatic Emotional Response Generation for Human-like Emotional Interaction**. In Proceedings of CIKM 2019. [[paper]](http://doi.acm.org/10.1145/3357384.3357937)
 
+
+### Emotional Dialogue
+1. Lei Shen, Yang Feng. **CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation**. In Proceedings of ACL 2020. [[paper]](http://arxiv.org/abs/2005.00329)
+1. Ao Zhang, Shizhan Chen, Xiaowang Zhang, Rui Li, Xinzhi Zhang. **A Knowledge-Enriched Model for Emotional Conversation Generation**. In Proceedings of WWW 2020. [[short paper]](https://dl.acm.org/doi/10.1145/3366424.3382693)
+1. Zhenqiao Song, Xiaoqing Zheng, Lu Liu, Mu Xu, Xuanjing Huang. **Generating Responses with a Specific Emotion in Dialog**. In Proceedings of ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1359)
+1. Pierre Colombo, Wojciech Witon, Ashutosh Modi, James Kennedy, Mubbasir Kapadia. **Affect-Driven Dialog Generation**. In Proceedings of NAACL 2019. [[paper]](https://arxiv.org/pdf/1904.02793.pdf)
+1. Peixiang Zhong, Di Wang, Chunyan Miao. **An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss**. In Proceedings of AAAI 2019. [[paper]](http://arxiv.org/abs/1811.07078)
+1. Xianda Zhou, William Yang Wang. **MojiTalk: Generating Emotional Responses at Scale**. In Proceedings of ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1104)
+1. Chenyang Huang, Osmar R. Zaïane, Amine Trabelsi, Nouha Dziri. **Automatic Dialogue Generation with Expressed Emotions**. In Proceedings of NAACL 2018. [[paper]](https://www.aclweb.org/anthology/N18-2008)
+1. Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu. **Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory**. In Proceedings of AAAI 2018. [[paper]](https://arxiv.org/pdf/1704.01074.pdf)
 
 
 ### Emotion Detection in Dialogue
