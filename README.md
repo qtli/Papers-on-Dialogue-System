@@ -1,4 +1,4 @@
-# Papers on Dialogue Systems (ongoing)
+# Research Progress on Emotion-related Dialogue Systems (ongoing)
 
 ## Surveys
 
@@ -36,7 +36,7 @@
 1. Hyunwoo Kim, Byeongchang Kim, Gunhee Kim. **Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes**. EMNLP 2021 [[paper]](https://arxiv.org/abs/2109.08828)
 1. Lei Shen, Jinchao Zhang, Jiao Ou, Xiaofang Zhao, Jie Zhou. **Constructing Emotion Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation**. EMNLP 2021 Findings. [[paper]](https://arxiv.org/abs/2109.07779)
 1. Siyang Liu, Chujie Zheng, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang. **Towards Emotional Support Dialog Systems**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.269.pdf)
-1. Chujie Zheng†, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang. CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation. ACL 2021 Findings. [[paper]](https://aclanthology.org/2021.findings-acl.72.pdf)
+1. Chujie Zheng, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang. CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation. ACL 2021 Findings. [[paper]](https://aclanthology.org/2021.findings-acl.72.pdf)
 1. Yubo Xie, Pearl Pu. Empathetic Dialog Generation with Fine-Grained Intents. CoNLL 2021. [[Paper]](https://arxiv.org/abs/2105.06829)
 1. Qintong Li, Hongshen Chen, Zhaochun Ren, Pengjie Ren, Zhaopeng Tu, Zhumin Chen. **EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation**. In Proceedings of COLING 2020. [[paper]](https://aclanthology.org/2020.coling-main.394)
 1. Qintong Li, Piji Li, Zhumin Chen, Zhaochun Ren. **Empathetic Dialogue Generation via Knowledge Enhancing and Emotion Dependency Modeling**. arxiv 2020. [[paper]](https://arxiv.org/pdf/2009.09708.pdf)
