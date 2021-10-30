@@ -75,5 +75,5 @@
 
 
 ### Others
-1. Kezhen Chen, Qiuyuan Huang, Daniel McDuff, Xiang Gao, Hamid Palangi, Jianfeng Wang, Kenneth Forbus, Jianfeng Gao. **NICE: Neural Image Commenting with Empathy**. [[paper]](https://www.microsoft.com/en-us/research/publication/nice/)
-
+1. Kezhen Chen, Qiuyuan Huang, Daniel McDuff, Xiang Gao, Hamid Palangi, Jianfeng Wang, Kenneth Forbus, Jianfeng Gao. **NICE: Neural Image Commenting with Empathy**. EMNLP 2021. [[paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/10/NICE_EMNLP2021.pdf)
+1. Kezhen Chen Qiuyuan Huang Daniel McDuff Jianfeng Wang Hamid Palangi Xiang Gao Kevin Li Kenneth Forbus Jianfeng Gao. **NICE: Neural Image Commenting Evaluation with an Emphasis on Emotion and Empathy**. NeurIPS 2020. [[paper]](https://www.microsoft.com/en-us/research/uploads/prod/2020/12/NICE.pdf) [[video]](https://slideslive.at/38942386/nice-neural-image-commenting-evaluation-with-an-emphasis-on-emotion-and-empathy?ref=speaker-22976-latest)
