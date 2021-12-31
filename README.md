@@ -32,14 +32,14 @@
 
 
 ### Empathetic Dialogue
-1. Jun Gao, Yuhan Liu, Haolin Deng, Wei Wang, Yu Cao, Jiachen Du, Ruifeng Xu. **Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations**. EMNLP 2021 Findings. [[paper]]()
+1. Qintong Li, Piji Li, Zhaochun Ren, Pengjie Ren, Zhumin Chen. **Knowledge Bridging for Empathetic Dialogue Generation**. AAAI 2022. [[paper]](http://arxiv.org/abs/2009.09708)
+1. Jun Gao, Yuhan Liu, Haolin Deng, Wei Wang, Yu Cao, Jiachen Du, Ruifeng Xu. **Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations**. EMNLP 2021 Findings. [[paper]](https://aclanthology.org/2021.findings-emnlp.70)
 1. Hyunwoo Kim, Byeongchang Kim, Gunhee Kim. **Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes**. EMNLP 2021 [[paper]](https://arxiv.org/abs/2109.08828)
 1. Lei Shen, Jinchao Zhang, Jiao Ou, Xiaofang Zhao, Jie Zhou. **Constructing Emotion Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation**. EMNLP 2021 Findings. [[paper]](https://arxiv.org/abs/2109.07779)
 1. Siyang Liu, Chujie Zheng, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang. **Towards Emotional Support Dialog Systems**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.269.pdf)
 1. Chujie Zheng, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang. CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation. ACL 2021 Findings. [[paper]](https://aclanthology.org/2021.findings-acl.72.pdf)
 1. Yubo Xie, Pearl Pu. Empathetic Dialog Generation with Fine-Grained Intents. CoNLL 2021. [[Paper]](https://arxiv.org/abs/2105.06829)
 1. Qintong Li, Hongshen Chen, Zhaochun Ren, Pengjie Ren, Zhaopeng Tu, Zhumin Chen. **EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation**. In Proceedings of COLING 2020. [[paper]](https://aclanthology.org/2020.coling-main.394)
-1. Qintong Li, Piji Li, Zhumin Chen, Zhaochun Ren. **Empathetic Dialogue Generation via Knowledge Enhancing and Emotion Dependency Modeling**. arxiv 2020. [[paper]](https://arxiv.org/pdf/2009.09708.pdf)
 1. Peixiang Zhong, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao. **Endowing Empathetic Conversational Models with Personas**. In Proceedings of EMNLP 2020. [[paper]](https://arxiv.org/pdf/2004.12316.pdf)
 1. Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung. **Generating Empathetic Responses by Looking Ahead the User’s Sentiment**. In Proceedings of ICASSP 2020. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054379)
 1. Anuradha Welivita, Pearl Pu. **A Taxonomy of Empathetic Response Intents in Human Social Conversations**.  In Proceedings of COLING 2020. [[paper]]()
